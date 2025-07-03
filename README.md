@@ -19,7 +19,7 @@ This app helps users organize tasks efficiently, with filter options and intuiti
 
 ## 📸 Preview
 
-![App Preview](./preview.png) 
+![App Preview](./preview/preview.png) 
 
 ---
 
