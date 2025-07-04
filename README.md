@@ -66,7 +66,8 @@ my-app/
 git clone https://github.com/Poojaprajapati2417/ToDo-list.git
 cd ToDo-list
 npm install
-npm run dev   # or npm start```
+npm run dev   # or npm start
+```
 
 
 ℹ️ Note
