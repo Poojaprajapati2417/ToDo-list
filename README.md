@@ -75,7 +75,3 @@ npm run dev   # or npm start
 This is a frontend-only version of the To-Do app.
 Tasks are stored in localStorage. A backend version can be added later if needed.
 
-
-```
-ℹ️ Note This is a frontend-only version of the To-Do app. Tasks are stored in localStorage. A backend version can be added later if needed.
-
