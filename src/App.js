@@ -3,7 +3,6 @@ import React, { useState, useEffect } from 'react';
 import { FaPlus, FaTrash, FaEdit, FaCheck } from 'react-icons/fa';
 import toast, { Toaster } from 'react-hot-toast';
 
-
 export default function App() {
   const [task, setTask] = useState('');
   const [tasks, setTasks] = useState([]);
