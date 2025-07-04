@@ -138,7 +138,4 @@ cd ToDo-list
 npm install
 npm run dev   # or npm start
 
-## ℹ️ Note
-This is a frontend-only version of a To-Do app built using React + Tailwind CSS.
-Tasks are stored in the browser via localStorage.
-A backend version can be integrated in the future if required.
+
